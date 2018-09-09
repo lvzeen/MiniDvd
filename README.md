@@ -1,2 +1,2 @@
-# helloworld
-exercise
+# MiniDvd
+java项目练习
